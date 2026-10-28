@@ -4,13 +4,9 @@
 **restartabrez/restartabrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...a dream project to help students.
-- 🌱 I’m currently learning ...SQL,Python and AI tools
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+-Who you are: a VFX professional with 25 years’ experience moving into AI apps and automation.
+-Your goal: to build AI apps that solve real problems.
+-What you’re learning now: Git, SQL, Supabase, Python.
+-What you’re building: an AI-assisted practice app for students (in progress).
 - 📫 How to reach me: ...restart.abrez@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
